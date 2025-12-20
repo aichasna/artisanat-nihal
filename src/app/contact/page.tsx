@@ -50,7 +50,7 @@ export default function ContactPage() {
                 <div className={styles.infoIcon}>
                   <Mail size={20} />
                 </div>
-                <span>contact@artisanat.com</span>
+                <span>art.kimdil@gmail.com</span>
               </div>
               <div className={styles.infoItem}>
                 <div className={styles.infoIcon}>
