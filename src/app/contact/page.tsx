@@ -56,13 +56,13 @@ export default function ContactPage() {
                 <div className={styles.infoIcon}>
                   <Phone size={20} />
                 </div>
-                <span>+212 6 1234 5678</span>
+                <span>+212 666 924 177</span>
               </div>
               <div className={styles.infoItem}>
                 <div className={styles.infoIcon}>
                   <MapPin size={20} />
                 </div>
-                <span>Marrakech, Maroc</span>
+                <span>Douar Graoua, Garaj 5, Marrakech</span>
               </div>
             </div>
           </div>

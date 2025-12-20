@@ -13,8 +13,8 @@ export default function Footer() {
           </div>
           <div className={styles.footerSection}>
             <h4>Contact</h4>
-            <p>contact@artisan-nihal.com</p>
-            <p>+212 6XX XXX XXX</p>
+            <p>art.kimdil@gmail.com</p>
+            <p>+212 666 924 177</p>
           </div>
           <div className={styles.footerSection}>
             <h4>Atelier</h4>
