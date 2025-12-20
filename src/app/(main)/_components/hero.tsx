@@ -27,7 +27,7 @@ export default function HeroSection() {
         <div className={styles.heroVisual}>
           <div className={styles.visualGrid}>
             <div className={`${styles.visualItem} ${styles.visualItem1}`}>
-              <Image src="/images/main4.jpg" alt="Cuir artisanal" fill style={{ objectFit: 'cover' }} />
+              <Image src="/images/pouf.webp" alt="Cuir artisanal" fill style={{ objectFit: 'cover' }} />
               <div className={styles.visualOverlay}></div>
             </div>
             <div className={`${styles.visualItem} ${styles.visualItem2}`}>
@@ -35,7 +35,7 @@ export default function HeroSection() {
               <div className={styles.visualOverlay}></div>
             </div>
             <div className={`${styles.visualItem} ${styles.visualItem3}`}>
-              <Image src="/images/main3.jpeg" alt="Artisan au travail" fill style={{ objectFit: 'cover' }} />
+              <Image src="/images/main5.JPG" alt="Artisan au travail" fill style={{ objectFit: 'cover' }} />
               <div className={styles.visualOverlay}></div>
             </div>
           </div>
