@@ -31,11 +31,11 @@ export default function HeroSection() {
               <div className={styles.visualOverlay}></div>
             </div>
             <div className={`${styles.visualItem} ${styles.visualItem2}`}>
-              <Image src="/images/main1.jpg" alt="Tapis berbère" fill style={{ objectFit: 'cover' }} />
+              <Image src="/images/main.jpg" alt="Tapis berbère" fill style={{ objectFit: 'cover' }} />
               <div className={styles.visualOverlay}></div>
             </div>
             <div className={`${styles.visualItem} ${styles.visualItem3}`}>
-              <Image src="/images/main5.JPG" alt="Artisan au travail" fill style={{ objectFit: 'cover' }} />
+              <Image src="/images/yujy.JPG" alt="Artisan au travail" fill style={{ objectFit: 'cover' }} />
               <div className={styles.visualOverlay}></div>
             </div>
           </div>

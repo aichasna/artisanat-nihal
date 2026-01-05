@@ -3,10 +3,10 @@
 import styles from '@/styles/work.module.css';
 
 const workItems = [
-  { title: 'Maroquinerie', image: '/images/maroquinerie.png' },
-  { title: 'Tapis Berbères', image: '/images/tapisserie.png' },
-  { title: 'Kilims', image: '/images/kilims.png' },
-  { title: 'Sur Mesure', image: '/images/surmesure.png' },
+  { title: 'Maroquinerie', image: '/images/maroquinerie2.png' },
+  { title: 'Création Unique', image: '/images/Creation-Unique.png' },
+  { title: 'Tissu sur mesure', image: '/images/tissu-mrama.png' },
+  { title: 'Tapisserie', image: '/images/Tapisserie2.png' },
 ];
 
 export default function WorkSection() {
